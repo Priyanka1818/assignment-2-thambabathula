@@ -4,4 +4,4 @@ Hi, I'm Priyanka I came from India to pursue Masters in Applied Computer Science
  which is in Maryville at Missouri
  
  
- [my image](priyanka.jpeg)
+ [myimage](priyanka.jpeg)
