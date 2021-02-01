@@ -39,13 +39,13 @@ Vijayawada, also known as Bezawada is a city in the Indian state of Andhra Prade
 
 -------------------------------------------------------------------------
 
-|   Location           |  Number of hours  |  Amount of Money  |    Images                              |
-|----------------------|-------------------|-------------------|---------------------------             |
-| Kanaka Durga Temple  |     3hrs          |        30$        ||[Kanaka Durga Temple](DurgaTemple.jpg) |
-| Undavalli Caves      |     2hrs          |        20$        ||[Undavalli Caves](UndavalliCaves.jpg)  |
-| Prakasam Barrage     |     2hrs          |        15$        ||[Prakasam Barrage](PrakasamBarrage.jpg)|
-| Bhavani Island       |     4hrs          |        50$        ||[Bhavani Island](BhavaniIsland.jpeg)   |
-|                      |                   |                   |                                        |
+|   Location           |  Number of hours  |  Amount of Money  |  
+|----------------------|-------------------|-------------------|
+| Kanaka Durga Temple  |     3hrs          |        30$        |
+| Undavalli Caves      |     2hrs          |        20$        |
+| Prakasam Barrage     |     2hrs          |        15$        |
+| Bhavani Island       |     4hrs          |        50$        |  
+|                      |                   |                   |             
 
 -----------------------------------------------------------------------
 
@@ -79,3 +79,12 @@ done
 
 ```
 --------------------------------
+
+
+|   Location           |  Number of hours  |  Amount of Money  |    Images                              |
+|----------------------|-------------------|-------------------|---------------------------             |
+| Kanaka Durga Temple  |     3hrs          |        30$        ||[Kanaka Durga Temple](DurgaTemple.jpg) |
+| Undavalli Caves      |     2hrs          |        20$        ||[Undavalli Caves](UndavalliCaves.jpg)  |
+| Prakasam Barrage     |     2hrs          |        15$        ||[Prakasam Barrage](PrakasamBarrage.jpg)|
+| Bhavani Island       |     4hrs          |        50$        ||[Bhavani Island](BhavaniIsland.jpeg)   |
+|                      |                   |                   |                                        |
