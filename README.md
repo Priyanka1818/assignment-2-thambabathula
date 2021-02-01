@@ -88,5 +88,5 @@ done
 | Kanaka Durga Temple  |     3hrs          |        30$       |[Kanaka Durga Temple](DurgaTemple.jpg) |
 | Undavalli Caves      |     2hrs          |        20$       |[Undavalli Caves](UndavalliCaves.jpg)  |
 | Prakasam Barrage     |     2hrs          |        15$       |[Prakasam Barrage](PrakasamBarrage.jpg)|
-| Bhavani Island       |     4hrs          |        50$       |[Bhavani Island](BhavaniIsland.jpeg)   |
+| Bhavani Island       |     4hrs          |        50$       |[Bhavani Island](BhavaniIsland.jpg)   |
 |                      |                   |                  |                                       |
