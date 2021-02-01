@@ -80,6 +80,8 @@ done
 ```
 --------------------------------
 
+# Images of places to visit in vijayawada
+
 
 |   Location           |  Number of hours  |  Amount of Money  |    Images                              |
 |----------------------|-------------------|-------------------|---------------------------             |
