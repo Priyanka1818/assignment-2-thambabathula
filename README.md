@@ -27,4 +27,34 @@ ___________________________________________
     * eggs
     * prawms
 * Come home 
-[aboutme](aboutme.txt)
+
+[aboutme](AboutMe.md)
+
+
+-------------------------------------------------------------
+
+# Place to visit "VIJAYAWADA"
+
+Vijayawada, also known as Bezawada is a city in the Indian state of Andhra Pradesh. Located 400 km southwest of state's Executive capital Visakhapatnam. It lies on the banks of River Krishna surrounded by the hills of Eastern Ghats known as Indrakeeladri Hills in Krishna District. It geographically lies on the center spot of Andhra Pradesh. The city has been described as the commercial and educational capital of Andhra Pradesh,second largest city in Andhra Pradesh and is one of the rapidly growing urban areas in India.
+
+-------------------------------------------------------------------------
+
+|   Location              |  Number of hours   |  Amount of Money    |
+|-------------------------|--------------------|---------------------|
+| Kanaka Durga Temple     |     3hrs           |        30$          |
+| Undavalli Caves         |     2hrs           |        20$          |
+| Prakasam Barrage        |     2hrs           |        15$          |
+| Bhavani Island          |     4hrs           |        50$          |
+|                         |                    |                     |
+
+-----------------------------------------------------------------------
+
+# Quotes
+
+>“Be yourself; everyone else is already taken.” *** Oscar Wilde ***
+>“You only live once, but if you do it right, once is enough.” *** Mae West ***
+>“Good friends, good books, and a sleepy conscience: this is the ideal life.” *** Mark Twain ***
+
+--------------------------------------------------------------------------
+
+# Code Fencing
