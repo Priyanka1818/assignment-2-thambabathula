@@ -58,3 +58,22 @@ Vijayawada, also known as Bezawada is a city in the Indian state of Andhra Prade
 --------------------------------------------------------------------------
 
 # Code Fencing
+>Lynx is a programming language for large distributed networks, using remote procedure calls. It was developed by the University of Wisconsin–Madison in 1984 for the Charlotte multicomputer operating system.
+[click here to know about lynx](https://en.wikipedia.org/wiki/LANSA_(development_environment))
+
+----------------
+
+!/bin/bash
+valid=true
+count=1
+while [ $valid ]
+do
+echo $count
+if [ $count -eq 5 ];
+then
+break
+fi
+((count++))
+done
+
+--------------------------------
